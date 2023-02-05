@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Widget from './Components/Widget';
 
 function App() {
   return (
     <div className="App">
-      
+      <Widget/>
     </div>
   );
 }
